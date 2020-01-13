@@ -24,6 +24,7 @@ date: 2020-01-06 13:30:00
 |  3/30|ML 2: Industrialization and Control      |[Lecture 12]| Crawford, [Anatomy of an AI System]; Schüll, [Gambled Away: Video Poker and Self-Suspension]                          |
 
 ## Assignments 
+
 |   Assignment              |   Date        |  Value  |
 | ------------------------- |:-------------:| -------:|
 |   Essay 1                 |   Feb 3rd     |   15%   |
