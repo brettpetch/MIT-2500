@@ -37,7 +37,7 @@ date: 2020-01-06 13:30:00
 
 
 [Lecture 1]: lecture/0
-[Lecture 2]: lecture/404
+[Lecture 2]: lecture/1
 [Lecture 3]: lecture/404
 [Lecture 4]: lecture/404
 [Lecture 5]: lecture/404
