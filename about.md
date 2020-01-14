@@ -35,29 +35,29 @@ permalink: /about/
 
 
 
-[Lecture 1]: lecture/0
-[Lecture 2]: lecture/1
-[Lecture 3]: lecture/404
-[Lecture 4]: lecture/404
-[Lecture 5]: lecture/404
-[Lecture 6]: lecture/404
-[Lecture 8]: lecture/404
-[Lecture 9]: lecture/404
-[Lecture 10]: lecture/404
-[Lecture 11]: lecture/404
-[Lecture 12]: lecture/404
+[Lecture 1]: /MIT-2500//lecture/2020/01/06/Lecture-1.html
+[Lecture 2]: /MIT-2500/2020/01/13/Lecture-2.html
+[Lecture 3]: none
+[Lecture 4]: none
+[Lecture 5]: none
+[Lecture 6]: none
+[Lecture 8]: none
+[Lecture 9]: none
+[Lecture 10]: none
+[Lecture 11]: none
+[Lecture 12]: none
 
-[Slides 1]: lecture/404
-[Slides 2]: lecture/404
-[Slides 3]: lecture/404
-[Slides 4]: lecture/404
-[Slides 5]: lecture/404
-[Slides 6]: lecture/404
-[Slides 9]: lecture/404
-[Slides 10]: lecture/404
-[Slides 11]: lecture/404
-[Slides 12]: lecture/404
-[Slides 13]: lecture/404
+[Slides 1]: none
+[Slides 2]: none
+[Slides 3]: none
+[Slides 4]: none
+[Slides 5]: none
+[Slides 6]: none
+[Slides 9]: none
+[Slides 10]: none
+[Slides 11]: none
+[Slides 12]: none
+[Slides 13]: none
 
 [The Ghost Map]: attachments/readings/ghosts.pdf
 [Here’s How Much You Are Worth to Facebook in Dollars and Cents]: https://www.kqed.org/news/11661387/heres-how-much-you-are-worth-to-facebook-in-dollars-and-cents
