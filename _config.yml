@@ -31,3 +31,5 @@ theme_color: magenta
 
 # Build settings
 markdown: kramdown
+
+owl: https://owl.uwo.ca/portal/site/7d5923ca-95e4-4fdd-9d8e-805250112ca1
