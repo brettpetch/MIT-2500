@@ -35,3 +35,15 @@ markdown: kramdown
 owl: https://owl.uwo.ca/portal/site/7d5923ca-95e4-4fdd-9d8e-805250112ca1
 
 google_analytics: UA-45906012-10
+
+collections:
+  category:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: category
+    values:
+      layout: "category_index"
