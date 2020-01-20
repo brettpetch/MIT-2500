@@ -1,7 +1,7 @@
 ---
 title: The Ghost Map
 author: Steven Johnson
-date: 2020-01-13 14:30:00
+date: 2006-10-19
 layout: category-post
 categories: 
     - week-2
