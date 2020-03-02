@@ -115,3 +115,68 @@ Stuart Bran, Manning camera at a demonstration in 1968... Engalbart:
 <iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/yJDv-zdhzMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 What he is doing is manipulating words on a screen. He had a mouse, other gizmos for moving things around on the screen. It wasn't just a screen. He said lets treat this as an experience rather than starting from instrumental rationality.
+
+### Brand's Spacewar (1972)
+Thought "maybe computers don't have to be giant institutional evil devices. The article from Brand appeared in Rolling Stone magazine, when it was a mouth piece for counter cultural rock music. Kind of a flagship in the counter culture in some ways. Alternative ways of viewing things, where one article framed computers completely differently. This is a totally different way of experincing computers. It was a about as straight as hotrodders would look. This was considered to be a countercultural activity... Turning a VW Bug and turning it into a dune buggy.
+
+First thought of the computer outside of the... In computing, it was about being creative, about being an artisan. People are willing to pay you if you're good and there is plenty of time to screw around. This is quite the opposite of the HAL 9000 envisioning of how it was supposed to be. The countercultural trends started to develop fans and spread in the 1970s. A lot of this stuff was printed. Phrase user-friendly. 
+
+![Processed World covers](https://cdn-ed.versobooks.com/blog_posts/000003/372/processed_world_cover-.jpg)
+
+In the 70's this was black and white, "Byte", this is a picture of Spawk from Star Treck, pictures sign "computers in every home". People saying we have a different idea of how to do computers.
+
+Book called ["Computer"](http://worrydream.com/refs/Nelson-ComputerLibDreamMachines1975.pdf), everything inverts, then the book is another side. Hand published, black powerraised fist. The theme that computers can set you free; goes through all of the alternative ways of using computers. About screens, etc. Direct computing. It's about a way of being creative. 
+
+### Ted Nelson's Influence:
+Microchips were getting cheaper, some serious computing power in a box began to become more and more important. Jobs and Woz, etc. People starting selling things to eachother, Gates started selling a computer language called BASIC to computer hobbiests. Become celebrations of individual geniuses. One of the best books about Silcon Valley is called Accidental Empire. All of these thnigs being stumbled onto this. The ones who are famous now are hose that made piles of money from it. SJ was an impersario, infamous bully, etc. People who design all of these things who come out of this culture, but didn't manage to be at teh top of a corporation. Focus on the broader picture: it came out of a culture and a vision. It is created according to specific visions. Not just springing from the mind of individual geniuses. Ted Nelson made next to no money from it. That's how technological developments happen. 
+
+The Apple II, etc. were some of the first microcomputers. Hobbiest computer companies quickly figured out that they could make millions of dollars selling microcomputing units to businesses. IBM had to completely re-adjust how they do buisness. They became typewriters on steroids, places to send / receive email. Industrial empires were founded, HP, other companies moved into the same area. Became... The aura / thrill started to ware off. The fascination of computers became mundane and changed things in quite interesting ways... Just becoming another business machine. Gates: buy OS, cheap, then jack up the price. Gates was soon a rich person that was established through monopoly. One of the technological things about the computer: You buy, you plug in printer, you're done. What they weren't was networked. People could login to bulletin board websites, it was slow and not interconnected. 
+Microcomputers had become boring, but by 1992, people were trying to find the next way. 
+
+Realization was interconnected computers for communication (in cool new ways). There had been studys and research DARPA, some of the stuff that we've been talking about. The microcomputing industry was ign. WIRED: founder wanted to apply the ethos to the computer network. had essays of why cable tv was not the way of the future. Laurie Anderson, the famous musician online sex... they were all over it. WIRED started poking around at the existing industry. realized that they needed to figure out how do we control intellectual property. ["Everything you know about intellectual property is wrong"](https://www.wired.com/1994/03/economy-ideas/) by John Perry Barlow. People who had access to internet at that point outside of research institutions, etc. 
+
+![NETSCAPE](http://img.timeinc.net/time/magazine/archive/covers/1996/1101960219_400.jpg)
+
+The internet Browser: The Golden Geeks Feb 19, 1996 The 1990's Stock Bubble 1994-2001. Marc Andreessen: Netscape
+
+What we're creating is an information highway. It's a superhighway because it's fast. "I want to go between A & B" usually just to drive, unless you're in LA, which I can't explain...
+
+##### ASIDE (brett) 
+<iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/-yU0RNPAOJw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Internet, pornography, etc. 
+
+Decided to do a corporate IPO (company that has no profit model, is giving away it's product). Instead, they raised more money, broke records and became rich overnight. It set off what I think is still the largest stock bubble in human history. Money started pouring into netscape and created a bubble. Other companies started to do the same. Yahoo! still exists, but alot of these companies were in the DOT COM bubble.
+
+hope taht companies will settle in and start doing it (making money). It is still a common way of investing, particularly in the US. That was created in teh 1990's around marc andreessen, kept building more internet pipes. When you were children the internet worked very well because they had spent so much money on internet infrastructure. 
+
+Moral of the story: Both the micro-computer in alot of ways mirrored the development of broadcasting on the radio. Framed as rebellious, and institutionally over time there is a kind of re-configuration of new uses for the technologies that then start to congeil. When Zuckerburg dropped out of college in ~2002 and went to form a company based off of a piece of software he originally wrote.
+
+see: THE SOCIAL NETWORK (Docu-Drama on Zuck's life)
+
+Zuckerburg going to VC meeting in his pyjamas, says "I don't want your money", following the script by that point. Walked out, they come walking and keep trying to give him money, establishes standard.
+
+##### Unrelated Meme to help make sense of the script:
+<iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/N6Zz-Nkkaxc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Not going to go through the whole way that social media arose, but there is a cycle. Now, it's still going on, etc. Where's the innovation?
+
+People around Shenzhen, China: start making things, sporting tone where they like to drink beers and talk about what it is that they invented. There are shopping malls in parts of china where you can find things like a cell-phone razor combo. Cigarette case, other side = cellphone. This is all really cheap things.
+
+##### Related: Shenzhen, China Markets: Building an iPhone from the market.
+<iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/leFuF-zoVzA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+People will play with, mess around with, etc. technology.
+
+### The Dialetics of Control and Rebellion:
+Individualist rebellions are typically at best contradictory, tech matter and are never enough on their own to create democracy
+- Arab Spring (Twitter Revolution)
+- Internet Democracy in the US
+
+You see many dissapointments. We will talk about Arab Spring at length later in the course. People thought it was because they could get together on Twitter. 
+
+Then: 2016 happened, Brexit, Trump, these moments of cultural change, rebellion, they real, they matter, they will happen again, and are not themselves enough to make change. 
+
+Dialectics: part of how modern industrial societies adjust to change, or not wanting to change too much.
+
+```end```
