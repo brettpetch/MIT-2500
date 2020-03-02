@@ -114,3 +114,4 @@ Stuart Bran, Manning camera at a demonstration in 1968... Engalbart:
 
 <iframe style="width: 55vw; height: 45vh;" src="https://www.youtube-nocookie.com/embed/yJDv-zdhzMY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+What he is doing is manipulating words on a screen. He had a mouse, other gizmos for moving things around on the screen. It wasn't just a screen. He said lets treat this as an experience rather than starting from instrumental rationality.
