@@ -101,7 +101,7 @@ Now, Philisophically, there were two poles. There are times when this is the obv
 1. Community as Solidarity: Defines community as unified, together, the same.
 2. Community as a place where differences can be openly allowed,addressed, and dealt with -> a sphere of democratic debate.
 
-### The Idea of a Public Sphere
+## The Idea of a Public Sphere
 One of the most famous theories of what we're going for his Jurgen Habermas' Public Sphere. It comes from turn taking, realizes that it's universal... We are all turntaking talking animals and a public sphere is an idealized version of how we want to re-create the face-to-face situation in a mass-mediated world. In some ways the public sphere is the idea of a public space where people can talk. Literally tanslated from German, it's translated to openness. It's somewhere that everyone can participate somehow. It should be a public space where people are able to talk in an unconstrained way. This classroom is not unconstrained, where Prof does one thing, and students do another. People have to be on different terms. 
 
 People also have to fall into rules or norms of discourse. If we have to talk for our minds to be changed. Now, you might say "that never happens", Habermas says that this does occour, one example being the Parisian salon, where people would just debate things. It was ~1700's... What is / how does science work... Same with English Coffeehouses, where people asked "do we really need kings"... Giving women citizenship was considered to be something new... 
@@ -124,3 +124,77 @@ In 68, we see a sharp dropoff of american voter turnout. Canada turns ~60-65 per
 
 ```break```
 
+### Hallin's News Doughnut
+There are alot of liberals wondering why the media is so limited in it's coverage of such things like the Vietnam war. Daniel Hallin became a scholar and a critic who write a book "Uncensored War" and came up with a theory of Doughnut of legitimate debate. The idea is that even in the commercial media, which is not directly censored by the government is that the discussion is limited to a set of issues, where in the US Two-Party System, where at the core is reporters and editors assume people are aware of: you will not see the discussion of whether we should have nation states. Outside that is teh Sphere of deviance, where views are considered to be too "crazy" and non-legitimate. Protesting the war was considered to be a sphere of deviance. It was not people who had a difference of opinion, but someone who was deviant. It serves as a description as to how alot of journalism seems to work. 
+
+### Joseph P. Overton "The Overton Windpow" Model of Political Acceptability
+It's not just people from the left, but rather a libritarian. The idea of completely private schools was considered crazy. He watched charter schools and home schools becoming legitimate. This kind of shifted thinking. In the 1960's, the Democrats led a passage that marriage can only be between a man and a woman. Thought to be never-acceptable. Bit by bit, things started to change. You now live in a country that same sex marriage is legal and respected. That's quite a shift in what's considered illegitimate. Now it's right there in the middle of it. In the conservative party, they are (catholics) not on board with same-sex marriage / abortion. If you were to read the Globe and Mail / CBC, you would not see this article, as they are in the doughnut of illegitimate discussion. 
+
+### Chomsky and Herman's Propaganda Model
+Wondering why the media was so limited and inaccurate to the Vietnam War. By using the word propagnda, which is an old war, favoured by lennon in the lennonish theory of marxism in WWII as a nessecary thing. We aren't just going to do propaganda. In Herman just said "you don't see how you're doing it", so they say you look at media coverage and see that based on servicability to public dominant power interest. Institutions get to define the sphere of debate. You can see it in quality / volume of coverage, it's massive and systematic but even when news media does cover inconvenient materials differ at the ends. 
+
+Yesterday in the media, Bernie Sanders had an [editorial run in the New York Times](https://www.nytimes.com/2020/03/08/business/media/bernie-sanders-media.html), where he calls himelf a Democratic Socialist, the media, particularly Fox News calls him a Socialist. 
+
+#### Five Filters
+- Financial Ownership
+- Funding through ads
+- Reliance on PR
+- FLAK
+- Anti-Communism and Fear
+
+##### Financial Ownership and the For-Proift Model
+Large for profit corporations are unlikely to encourage the production of news and entertainment that is critical of their own activites. They have an interest in depoliticising content and can influence the governments and media organizations to define their interests. In Canada, Bell, Rogers, Shaw and Telus dominate the media. In the US, Comcast, Disney, TimeWarner, 21st Century Fox own cable services, networks, etc. You can break it up world-wide in terms of ownerhip, in 2013 the Murdoch Group (USA) had the top revenues, followed by the Government of China, Google was 3rd. It kind of says alot about our world. There is media concentration and that of course filters what becomes news. 
+
+##### Funding through ads
+There are times when advertising interferes with news, reporting. The pressure of ad support makes media content that works as "advertising packages". If you're a fan of american comedies, like Friends people often live in a place they can't afford. It's unrealistic. If you're making an advertising package, you have to dress it up. Advertisers don't want product being shown in realistic battered places.
+
+##### Public Relations
+There are more jobs in public relations than there are in Journalism. They don't always succeed, but they are definitely good at it. Governments often hire PR firms to make their case
+
+##### FLAK
+Negative responses to media statement or program. In the Vietnam War, they ran an hour long program talking about the pentagon's efforts. Nixon was threatening the broadcast licences after ... attacked CBS, if you were a news-programmer at CBS, they got so much government threat / etc. deciding not to do shows like that again, kind of backed off. 
+
+##### Anti-Communism and Fear
+"Ideology" was enormously powerful from '50-'90. Bernie Sanders put the kibosh on socialism being anti-american. Most young americans are like it's not a monsterous evil that needs to be stopped. It was associated with... there were movies made when I was a kid (streeter) where they'd do dramas and one of the kids was in a family that... Anti-communist. Our side is for democracy, etc. Was often used to justify support ofr authoritarian and corrupt governments. 
+
+##### After the 80's
+- Globalization of media and economies
+    - fall of the SU
+    - Entry of the People's Republic of China into the World Economy
+- Increasing Development of new media technolgoies.
+    - VCRs, CDs, DVDs, computer games.
+    - Multichannel cable tv and satellite tv spread
+- News Centers of media production begin to emerge: Bollywood, Japan
+- Questions Raised: Who are the new imagined communities? Are thetre any? How do you do democracy? Will it be reduced to consumerism?
+
+All of these appeared starting in the 80's and into the 90's. Started to spread through developed countries, what it did was... the propaganda model is a hard sell because there was so much available. Before these changes, most media globally, US to the rest, etc. 
+
+### Nicholas Garnham , Media, Cultural Identity and the Public Sphere (1993)
+Central Question: What would a democratic media look like in a globalizing world?
+
+After the 1980's: fall of teh soviet union, opening of the people's republic of china to the world market. "Anti-communism" no longer had a point.
+
+Garnham "How then, as citizens of the world, should we think the relation between the globalisation of the mass media and the future of democratic politics? the concept of the public sphere offers the soundest bass for teh analyiss and political action necessary to rebuild the systems of both communication and representitive democracy"
+
+"First, so far as teh meida of communication are concerned... [o]nce commuunication is mediated, these universal equalities can no longer be guaranteed. Even in a situation of face-to-face communication it was arly recognized that unequal access to the learned manipulative skills of rhetoric could and d id influence the outcome of democratic debate. But in an institution of mediated communication, access to both channel and means depend on the mobilization of scarce material resources, the distribution of which is dependant on the very structures of economic and political power that democratic processes of debate were intended to control."
+
+" Second, what has also became mediated is the content of communication and the subject of debete..." (see slides for rest of quote)
+
+#### Issues facing a mediated public sphere
+The problem of respectful communication: one of the problems is to ... troll... it's divorced from the people actively governing worlds. A second issue is the problem of centralized, commercial media production: it's not just that it's bad people that run HBO, but these networks are heirarcacle, and are for-profit and are for-profit and follow rules very different than that of democratic discourse.
+
+**One of the things he has to tackle is universal relativism.** Some people say
+> "look, every community around the world has their own truth. You know, there is alot of concern for minority groups and giving their point of view respect. you need some universal ground to create a public sphere. As long as there are dangers of elite domination, of intolerance, chauvinism, and xenophobia, are recognized, there is clearly both a political case and a political demand for the defense of national and local cultural autonomies against the growing domination of global networks of cultural production and distribution that is, as a minimum, the citizens of a polity can talk among themselves about those things that affect them and about the collective actions they wish to take in response."
+
+The french want a network exclusively in French, for people to experience french culture...
+
+**Does poltical thought have to be limited to news?**
+> "The position on the public sphere argued here can be criticized on the grounds that it overvalues politics and a particular model of rationalist discourse at the expense of disregarding the modes and functions of most media communication, which is non-rationalist and is concerned with psychological and imaginative satisfactions that have little to do with politics"
+
+#### Garnham Summarized
+> "With regard to the relationship between the institutionalized practices of mass communication and democratic politics, I take it as axiomatic that some version of communicative action lies at the heart of both the theory and practice of democracy. The rights and duties of citizens are in large part defined in freedom of assembly and freedom to impart and receive information. Without such freedom it would be impossible for citizens to possess the knowledge of the views of others necessary to reach agreements between themselves, whether consensual or majoritarian, as to either social means or ends; to possess knowledge of the actions of those whom executive responsibilities are delegated so as to make them accountable; and ot possess knowledge of the external environment necessary to arrive at the appropriate judgement of both personal and social interests..." (see slides)
+
+To summarize:
+People want freedom and community. And in an interconnected world, media technologies are essential to those. Media technologies do not guarantee equality or freedom. Modern media have often worked to turn peoples against each other. But any solution to the problem requires some kind of communication-at-a-distance. 
+
+Next Lecture: Using two decades of experiments, particularly the internet using electronic media to solve these problems.
